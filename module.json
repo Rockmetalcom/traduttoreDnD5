@@ -30,7 +30,7 @@
     "path": "it.json"
   }],
 
-  "url": "https://gitlab.com/riccisi/foundryvtt-dnd5e-lang-it-it",
-  "manifest": "https://gitlab.com/riccisi/foundryvtt-dnd5e-lang-it-it/raw/master/it-IT/module.json",
+  "url": "https://github.com/Rockmetalcom/traduttoreDnD5",
+  "manifest": "https://github.com/Rockmetalcom/traduttoreDnD5/blob/main/module.json",
   "download": "https://gitlab.com/riccisi/foundryvtt-dnd5e-lang-it-it/-/jobs/artifacts/0.50/raw/dnd5e-it-IT.zip?job=build"
 }
